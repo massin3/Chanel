@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <h1>Bold Title</h1>
+    <br />
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+      est laborum.
+    </p>
+    <img
+      src="images\laptop.jpg"
+      alt="this is a laptop"
+      height="720"
+      width="1280"
+    />
+    <br />
+    <a href="www.google.com">Google</a><br />
+    <a href="www.youtube.com">YouTube</a><br />
+    <input type="text" id="txtbox" name="textbox" /><br />
+    <input type="checkbox" id="chkbox" name="checkbox" /><br />
+    <input type="color" id="colorchecker" name="color checker" /><br />
+    <button>Refresh</button><br />
+    <ul>
+      <li>product</li>
+      <li>city</li>
+      <li>buyer</li>
+      <li>shipping company</li>
+    </ul>
+    <ol>
+      <li>shipping order</li>
+      <li>shipping order</li>
+      <li>shipping order</li>
+      <li>shipping order</li>
+      <li>shipping order</li>
+      <li>shipping order</li>
+    </ol>
+  </body>
+</html>
